@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAYME</Machine>
+    <WindowsUser>James</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>de7f4b28-e475-4207-967b-c9699e8fc54b</PackageIdentityName>
+    <IntermediateOutputPath>A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\Bible Quiz.Windows.exe">
+      <PackagePath>Bible Quiz.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\About.xml">
+      <PackagePath>About.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\about.png">
+      <PackagePath>Images\about.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\Back.png">
+      <PackagePath>Images\Back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\BibleQuizBack5.png">
+      <PackagePath>Images\BibleQuizBack5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\BibleQuizBack6.png">
+      <PackagePath>Images\BibleQuizBack6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\BibleQuizBack7.png">
+      <PackagePath>Images\BibleQuizBack7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\exit.png">
+      <PackagePath>Images\exit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\NewTest.png">
+      <PackagePath>Images\NewTest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\OldTest.png">
+      <PackagePath>Images\OldTest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\play.png">
+      <PackagePath>Images\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\Images\score.png">
+      <PackagePath>Images\score.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\Category.xbf">
+      <PackagePath>Category.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\NewTestament.xbf">
+      <PackagePath>NewTestament.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\OldTestament.xbf">
+      <PackagePath>OldTestament.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\Play.xbf">
+      <PackagePath>Play.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\Score.xbf">
+      <PackagePath>Score.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\Bible Quiz.Windows.xr.xml">
+      <PackagePath>Bible Quiz.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

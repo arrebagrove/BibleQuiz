@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="Bible_Quiz.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Bible_Quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image Source="Images/BibleQuizBack5.png" HorizontalAlignment="Left" Height="758" VerticalAlignment="Top" Width="1356" Stretch="UniformToFill"/>
+        <Image x:ConnectionId='1' x:Name="play" Source="Images/play.png" Margin="1140,590,45,10"                      />
+        <Image x:ConnectionId='2' x:Name="about" Source="Images/about.png" Margin="42,590,1083,10"                       />
+
+        <Grid x:Name="Snap" Visibility="Collapsed"  >
+            <Image Stretch="Fill" Source="Images/BibleQuizBack7.png" />
+        </Grid>
+    </Grid>
+</Page>
+

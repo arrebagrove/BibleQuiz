@@ -1,0 +1,1 @@
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\Bible Quiz.WindowsPhone.csproj;neutral

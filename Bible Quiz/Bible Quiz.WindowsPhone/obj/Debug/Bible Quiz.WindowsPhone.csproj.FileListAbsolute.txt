@@ -1,0 +1,62 @@
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\About.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\Play.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\Score.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\Bible Quiz.WindowsPhone.xr.xml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\Bible Quiz.WindowsPhone.exe
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\Bible Quiz.WindowsPhone.pdb
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\resources.pri
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\AppxManifest.xml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\Bible Quiz.WindowsPhone.build.appxrecipe
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\App.g.i.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\App.g.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\About.g.i.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\About.g.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\MainPage.g.i.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\MainPage.g.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Play.g.i.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Play.g.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Score.g.i.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Score.g.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\App.xaml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\About.xaml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\MainPage.xaml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Play.xaml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Score.xaml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\About.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Play.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Score.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Bible Quiz.WindowsPhone.exe
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Bible Quiz.WindowsPhone.pdb
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\priconfig.xml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\layout.resfiles
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\resources.resfiles
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\pri.resfiles
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\qualifiers.txt
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Category.g.i.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Category.g.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\NewTestament.g.i.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\NewTestament.g.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\OldTestament.g.i.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\OldTestament.g.cs
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Category.xaml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\Category.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\NewTestament.xaml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\OldTestament.xaml
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\NewTestament.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\obj\Debug\OldTestament.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\Category.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\NewTestament.xbf
+A:\GMIT HACAKTHON APPS\Bible Quiz\Bible Quiz\Bible Quiz\Bible Quiz.WindowsPhone\bin\Debug\OldTestament.xbf
